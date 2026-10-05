@@ -1,0 +1,11 @@
+{
+  "name": "PrepGenius - AI Interview Preparation Agent",
+  "description": "Adaptive AI Interview Preparation Agent with realistic mock interviews, live voice synthesis, real-time rubric feedback, and executive hiring scorecards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
